@@ -1,0 +1,56 @@
+Conceito sobre Ergonomia;
+
+Ergonomia é, acessibilidade, cuidado, conforto, facilidade, adaptação, segurança e etc...
+
+Ergonomia nasceu na segunda guerra mundial
+
+Ergonomia é o estudo do relacionamento entre o homem e o seu trabalho, equipamento, ambiente e particularmente, a aplicação dos conhecimentos de anatomia, fisiologia e psicologia na solução de problemas que surgem desse relacionamento
+
+
+entende-se por ergonomia o estudo das interações das pessoas com a tecnologia, a organização do ambiente objetivando intervenções e projetos que vizem melhorar de forma integrada e não dissociada a segurança, conforto, o bem-estar e eficácia das atividades humanas
+
+
+A ergonomia objetiva sempre a melhor adequação ou adaptação possível do objeto aos seres vivos em geral.
+
+
+Ergonomia visa em primeiro lugar, a saúde, segurança, satisfação do trabalhador e eficiência.
+
+saúde: A saúde do trabalhador é mantida quando as exigências do trabalho e do ambiente não ultrapassem as suas limitações energéticas e cognitivas, de modo a evitar as situações de estresse, risco de acidente e doenças ocupacionais.
+
+Segurança: é conseguida com os projetos do posto de trabalho, ambiente e organização do trabalho;
+
+Satisfação: é o resultado do atendimento das necessidades expectativas do trabalhador. Contudo, há muita diferença individuais e culturais. Uma mesma situação pode ser considerada satisfatória para uns e insatisfatória para outros, dependendo das necessidades e expectativas de cada um. Os trabalhadores satisfeitos tendem a doar mais de si.
+
+
+Eficiência: é a consequência de um bom planejamento e organização do trabalho, que proporcione, saúde, segurança e satisfação do trabalhador. Ela deve ser colocada dentro de certos limites, pois o aumento indiscriminado da eficiência pode implicar em prejuízos à saúde e segurança
+
+
+
+Ergonomia moderna
+
+Estuda principalmente os sistemas onde Há predominância dos aspectos sensoriais e de tomada de decisões. Isso envolve o processo de captação de informações (Percepção) armazenamento (Memória) e o uso no trabalho (Decisão)
+Muitas tarefas repetitivas e que exigem o uso de forças foram transferidas para as máquinas, restando ao homem as tarefas de programação, manutenção, comando e controle dessas máquinas.
+O Desempenho desses sistemas modernos dependem mais da percepção humana para a captação de informações e tomada de decisões, e das comunicações entre as pessoas no trabalho.
+Assim a ergonomia passou a estudar os aspectos cognitivos das interações entre as pessoas e o sistema de trabalho, a fim de realizar projetos de máquinas mais eficazes.
+
+
+
+
+
+Listar dentro do teclado e mouse quais são as principais tarefas a ser utilizadas com o produto:
+
+##Mouse
+
+---
+- Apontar;
+- Clicar;
+- Click duplo;
+- Arrastar;
+- Scroll;
+- Coordenação Motora; 
+- Uso do Antebraço (Flexão);
+- Movimento do pulso;
+-  
+
+
+
